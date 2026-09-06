@@ -24,16 +24,16 @@ A simple Python-based Student Record Management System developed using basic Pyt
 ## Screenshots
 
 ### Menu
-![Menu](Menu.png)
+![Menu](images/Menu.png)
 
 ### Add Student
-![Add Student](Add_student.png)
+![Add Student](images/Add_student.png)
 
 ### Display Students
-![Display Students](Display_Students.png)
+![Display Students](images/Display_Students.png)
 
 ### Search Student
-![Search Student](Search_student.png)
+![Search Student](images/Search_student.png)
 
 ### Update Student
-![Update Student](Update_Student.png)
+![Update Student](images/Update_Student.png)
